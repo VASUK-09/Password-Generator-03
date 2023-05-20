@@ -30,3 +30,10 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
+## Image
+![Screenshot of website](./assest/image/image.jpeg)
+
+## Links
+[Link to Github Repository](https://github.com/VASUK-09/Password-Generator-03.git)
+
+[Link to Github pages](https://vasuk-09.github.io/Password-Generator-03/)
